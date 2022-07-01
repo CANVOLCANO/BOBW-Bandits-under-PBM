@@ -1,0 +1,4 @@
+Res/
+wandb/
+*.out
+__pycache__
